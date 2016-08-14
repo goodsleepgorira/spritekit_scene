@@ -12,6 +12,7 @@
 		884A8F341D6069FB00567E8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 884A8F321D6069FB00567E8E /* Main.storyboard */; };
 		884A8F361D6069FB00567E8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 884A8F351D6069FB00567E8E /* Assets.xcassets */; };
 		884A8F391D6069FB00567E8E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 884A8F371D6069FB00567E8E /* LaunchScreen.storyboard */; };
+		884A8F411D606A5100567E8E /* TestScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884A8F401D606A5100567E8E /* TestScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		884A8F351D6069FB00567E8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		884A8F381D6069FB00567E8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		884A8F3A1D6069FB00567E8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		884A8F401D606A5100567E8E /* TestScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				884A8F2E1D6069FB00567E8E /* AppDelegate.swift */,
 				884A8F301D6069FB00567E8E /* ViewController.swift */,
 				884A8F321D6069FB00567E8E /* Main.storyboard */,
+				884A8F401D606A5100567E8E /* TestScene.swift */,
 				884A8F351D6069FB00567E8E /* Assets.xcassets */,
 				884A8F371D6069FB00567E8E /* LaunchScreen.storyboard */,
 				884A8F3A1D6069FB00567E8E /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				884A8F311D6069FB00567E8E /* ViewController.swift in Sources */,
+				884A8F411D606A5100567E8E /* TestScene.swift in Sources */,
 				884A8F2F1D6069FB00567E8E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
